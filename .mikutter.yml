@@ -1,0 +1,11 @@
+---
+slug: :mikutter-command-style
+depends:
+  mikutter: 3.2.1
+  plugin:
+  - settings
+  - command
+version: '0.0.1'
+author: moguno
+name: mikutter-comand-style
+description: メッセージの色やフォントを変更します。
